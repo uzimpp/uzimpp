@@ -31,5 +31,6 @@ A passionate problem-solver, designer with a drive to elevate things.
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
   </a>
-  ![uzimpp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzimpp&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </p>
+
+![uzimpp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzimpp&theme=dark&show_icons=true&hide_border=false&layout=compact)
