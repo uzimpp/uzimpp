@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 
 A passionate problem-solver, designer with a drive to elevate things.  
-* 🌍I'm based in Thailand, Bangkok
+* 🌍 I'm based in Thailand, Bangkok
 * 🖥️  See my portfolio at [https://worakrit.com](http://worakrit.com)
 
 ### Languages
