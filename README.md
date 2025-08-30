@@ -8,7 +8,7 @@
 
 * 🌍 I am Worakrit, Software and Knowledge Engineering student from Bangkok.
 * Ex-Cadet#7 @42School Bangkok.
-* 🖥️ More about [Worakrit]([http://worakrit.com](https://www.worakrit.xyz/))
+* 🖥️ More about [Worakrit](https://www.worakrit.xyz/)
 </p>
 
 ###
