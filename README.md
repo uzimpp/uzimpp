@@ -6,10 +6,8 @@
 
 ###
 
-* 🌍 I am Worakrit, Software and Knowledge Engineering student from Bangkok.
+* 🌍 I am Worakrit, Software and Knowledge Engineering student at Kasetsart University.
 * Ex-Cadet#7 @42School Bangkok.
-* 🖥️ More about [Worakrit](https://www.worakrit.xyz/)
-</p>
 
 ###
 
